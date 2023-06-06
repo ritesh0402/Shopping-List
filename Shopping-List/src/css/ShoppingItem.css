@@ -1,0 +1,14 @@
+.ShoppingItem {
+  width: 300px;
+  height: 40px;
+  /* margin: 30px;
+  padding: 10px; */
+  /* border: 1px solid black; */
+  border-radius: 10px;
+  text-align: center;
+}
+
+h2 {
+  margin: 0px;
+  padding: 0px;
+}
